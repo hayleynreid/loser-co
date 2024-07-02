@@ -1,0 +1,58 @@
+.hand1 {
+    position: relative;
+    height: 700px;
+    width: 1330px; 
+    left: 0px
+}
+
+.GA {
+    position: relative;
+    height: 700px;
+    width: 1350px; 
+    left: -10px;
+    top: -8px
+}
+
+.TIG {
+    position: relative;
+    height: 700px;
+    width: 1350px;
+    left: -10px;
+    top: -8px
+
+}
+
+.BB {
+    position: relative;
+    height: 700px;
+    width: 1350px;
+    left: -5px;
+    top: -8px
+    
+}
+
+.OA {
+    position: relative;
+    height: 700px;
+    width: 1355px;
+    left: -4px;
+    top: -8px
+}
+
+.SI {
+    position: relative;
+    height: 700px;
+    width: 1355px; 
+    left: -4px;    
+    top: -8px   
+
+}
+
+.TTE {
+    position: relative;
+    height: 700px;
+    width: 1355px;
+    left: -4px;
+    top: -8px
+    
+}
